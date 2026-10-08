@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "language": "ko",
+  "countries": [
+    "US",
+    "AU",
+    "JP"
+  ],
+  "chapters": 128,
+  "entries": 1688,
+  "sections": 132,
+  "anchors": 1820,
+  "brokenInternalLinks": [],
+  "unrestoredTokens": 0,
+  "htmlBytes": 7744504,
+  "translation": "machine draft with model-reviewed nationality adaptation, flagged errors and targeted high-risk checks; not professional full-text review"
+}

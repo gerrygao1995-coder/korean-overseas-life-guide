@@ -1,0 +1,35 @@
+{
+  "language": "ko",
+  "edition": "한국인을 위한 해외생활 가이드",
+  "translation_date": "2026-10-09",
+  "countries": [
+    {
+      "code": "US",
+      "name": "미국",
+      "chapters": 40,
+      "entries": 200,
+      "file": "US.md",
+      "sha256": "66f047fd7ee325ef03cc0b9b01316637ed382d9306dcc1f887231040fd603734",
+      "source": "https://github.com/gerrygao1995-coder/the-american-life-playbook"
+    },
+    {
+      "code": "AU",
+      "name": "호주",
+      "chapters": 40,
+      "entries": 720,
+      "file": "AU.md",
+      "sha256": "00daa6b6275d5a777e8751a7af641bc4be6ed7e4bce37846f3d84519d0580be0",
+      "source": "https://github.com/gerrygao1995-coder/live-better-australia"
+    },
+    {
+      "code": "JP",
+      "name": "일본",
+      "chapters": 48,
+      "entries": 768,
+      "file": "JP.md",
+      "sha256": "c79f16b5e777b8016e3a6bc5c0128fbb19fc4895b8180d5b8f011d9804466a1f",
+      "source": "https://github.com/gerrygao1995-coder/japan-life-playbook"
+    }
+  ],
+  "quality": "원언어에서 기계 번역한 초안을 바탕으로 국적·체류자격에 따른 이용 경로와 주요 표현을 모델이 교정했습니다. 전문 번역가의 전 문장 대조 검토, 모든 제도의 개인별 자격 심사, 모든 출처의 동일 날짜 재검증을 완료한 것은 아닙니다."
+}
